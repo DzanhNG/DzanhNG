@@ -1,3 +1,4 @@
+<img src="./GitHubHeader.png" width="1500" height="500">
 <h1 align="center">Hi 👋, I'm Danh Nguyen</h1>
 <h3 align="center">A passionate web scrapping from VietNam</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,12 +11,6 @@
 
 - ⚡ Fun fact **I am a funny and enthusiasm**
 
-h="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzanhng&show_icons=true&locale=en&layout=compact" alt="dzanhng" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzanhng&show_icons=true&locale=en" alt="dzanhng" /></p>
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
