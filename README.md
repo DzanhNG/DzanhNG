@@ -1,4 +1,6 @@
-<img src="./Readme_banner.png" width="15000" height="500">
+
+![logo](https://github.com/DzanhNG/DzanhNG/blob/c77bd62d24fd5476057a583e082470d7268f17a3/Readme_banner.png)
+
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
   
