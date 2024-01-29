@@ -28,6 +28,7 @@ I specialize in Web Scraping and Data Extraction, offering my expertise as your 
  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scrape-item-and-put-into-json&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
+<br>
 <a href="https://github.com/DzanhNG/Web-car-for-rent">
  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Web-car-for-rent&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
