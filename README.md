@@ -20,28 +20,16 @@ I specialize in Web Scraping and Data Extraction, offering my expertise as your 
 
 ## 📌 Pinned Repositories
 
+
+
 <br>
 
 <a href="https://github.com/DzanhNG/Scrape-item-and-put-into-json">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
-
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+ <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scrape-item-and-put-into-json&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
-<br>
 
 
 ## 💼 Skills
@@ -62,5 +50,3 @@ More Skills
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 
-
-<br>
