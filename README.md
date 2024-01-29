@@ -33,7 +33,7 @@ I specialize in Web Scraping and Data Extraction, offering my expertise as your 
 ## 📌 Pinned Repositories
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scrape-item-and-put-into-json)](https://github.com/anuraghazra/github-readme-stats), [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Web-car-for-rent)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scrape-item-and-put-into-json)](https://github.com/DzanhNG/Scrape-item-and-put-into-json), [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Web-car-for-rent)](https://github.com/DzanhNG/Web-car-for-rent)
 
 
 
