@@ -36,6 +36,8 @@ I specialize in Web Scraping and Data Extraction, offering my expertise as your 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scrape-item-and-put-into-json)](https://github.com/DzanhNG/Scrape-item-and-put-into-json)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Web-car-for-rent)](https://github.com/DzanhNG/Web-car-for-rent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=F-B-Market-place-Scraping)](https://github.com/DzanhNG/F-B-Market-place-Scraping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scrape-product-info-from-the-retail-website)](https://github.com/DzanhNG/Scrape-product-info-from-the-retail-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DzanhNG&repo=Scraping-the-Home-Loan-officer-Profile)](https://github.com/DzanhNG/Scraping-the-Home-Loan-officer-Profile)
 <br>
 
 
